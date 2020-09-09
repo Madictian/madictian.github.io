@@ -1,6 +1,5 @@
 # Fredrik Bille
-Sometimes i really wish i could live life as a proffesional procrastinator, but it's not that easy of a thing to do,
-so here i am making this webpage, with no idea how it is going to turn out.
+^Name is stated above^
 
 ![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=250&height=250)
 
