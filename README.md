@@ -88,7 +88,7 @@ So farm we have make several pieces of code, and a bit of math...
 <details>
  <summary>Click to expand!</summary>
  
- ![image](https://media.discordapp.net/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=400&height=300)
+ ![image](https://media.discordapp.net/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=500&height=300)
 Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment im baffled at how stuff is working,
 or maybe not so much. But i digress and hope its been a semi-enjoyable read and wish you a good night.
 WAIT! one more thing, there's another picture i think you need below.
