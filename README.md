@@ -1,4 +1,4 @@
-# Fredrik Bille
+### Fredrik Bille
 ^Name is stated above^
 I am a student of computer science at zealand school of applied sciences. i just started this fall after a five year sabatical due to personal reasons. My hobbies might seem very stereotypical of any pc related education, cause we game, we nerd, we obsess and im looking forward to expanding the nerding spektrume while making some money on top of it.
 
