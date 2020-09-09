@@ -31,7 +31,7 @@ and having a sweet working enviroment you tend to fall into habbits. Which i am 
 
 ## Now
 
-All was good, you had money, 
+>All was good, you had money, 
 
 
 
