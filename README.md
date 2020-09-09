@@ -87,6 +87,7 @@ So farm we have make several pieces of code, and a bit of math...
 ### Future
 <details>
  <summary>Click to expand!</summary>
+ 
 ![](https://cdn.discordapp.com/attachments/753265458047746199/753288764230729850/70cadf78dc75c723fd9f61ca54617f64.png)
 
 </details>
