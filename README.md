@@ -4,14 +4,14 @@ I am a student of computer science at zealand school of applied sciences. i just
 
 
 
-![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=200&height=200)
+![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=250&height=250)
 
 
 
 Currently my days are spent learning a new craft, that is programming and pass my freetime by looking at funny pictures and reposting them as funny reactions to others. trying to keep a healthy circle og laughter between my friends group and classmates. other antics would a bit of iceskating coupled with the gravity exercises that follows!
 
 
-<img src="Nice/Screenshot_20200510-115232.jpg" width="200" >
+<img src="Nice/Screenshot_20200510-115232.jpg" height="250">
 
 
 ## Before
