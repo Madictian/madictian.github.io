@@ -3,7 +3,7 @@
 I am a student of computer science at zealand school of applied sciences. i just started this fall after a five year sabatical due to personal reasons. My hobbies might seem very stereotypical of any pc related education, cause we game, we nerd, we obsess and im looking forward to expanding the nerding spektrume while making some money on top of it.
 
 
-%50![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=200&height=200)
+![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=200&height=200)
 
 
 
@@ -16,7 +16,10 @@ Currently my days are spent learning a new craft, that is programming and pass m
 
 Before
 
+As mentioned i took a 5 year sabaticle, it was planned to only keep me busy for a years time, but having money, picking working hours
+and having a sweet working enviroment you tend to fall into habbits. Which i am terrible at changing.
 
+![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=507&height=676)
 
 
 
