@@ -50,7 +50,9 @@ but i perservere and try my best to learn from their experience and keep up.
 So farm we have make several pieces of code, and a bit of math...
 
 - We made a table to neatly display a table of information
+
 <summary>Click to expand!</summary>
+
 ```
         String[][] table  = new String[5][];
         table[0] = new String[] {"a",   "a^2",  "a^3",   "a^4"};
