@@ -56,7 +56,9 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 
+
 <img src="Nice/4df36c85c2a43772fe540ad0cb668a02.png">
+
 
 </details>
 
@@ -65,7 +67,9 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 
+
  <img src="Nice/1872f616dbc746bab254fe93dad43c83.png">
+
 
 </details>
 
