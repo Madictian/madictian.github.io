@@ -49,7 +49,7 @@ but i perservere and try my best to learn from their experience and keep up.
 
 So farm we have make several pieces of code, and a bit of math...
 
-- we made a table to neatly display a table of information
+- We made a table to neatly display a table of information
 ```
         String[][] table  = new String[5][];
         table[0] = new String[] {"a",   "a^2",  "a^3",   "a^4"};
@@ -63,7 +63,7 @@ So farm we have make several pieces of code, and a bit of math...
         for (String[]   row :   table)  {
             System.out.format("%15s%15s%15s%15s\n", row);
 ```
--
+- We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring death all given parameters
 
 -
 
