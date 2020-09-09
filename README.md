@@ -67,7 +67,8 @@ So farm we have make several pieces of code, and a bit of math...
             System.out.format("%15s%15s%15s%15s\n", row);
 ```
 </details>
-- We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring death all given parameters
+
+- We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring deaths (given parameters)
 
 <details>
 <summary>Click to expand!</summary>
