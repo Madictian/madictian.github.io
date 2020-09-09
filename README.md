@@ -3,7 +3,7 @@ Sometimes i really wish i could live life as a proffesional procrastinator, but 
 so here i am making this webpage, with no idea how it is going to turn out.
 
 ![image](https://media.discordapp.net/attachments/751336524452331520/753220727527964712/Screenshot_20200510-115232.jpg?width=250&height=250)
-![image(https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=250&height=250)
+![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=250&height=250)
 
 - Bulleted
 - List
