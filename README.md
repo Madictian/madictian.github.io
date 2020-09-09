@@ -73,6 +73,7 @@ So farm we have make several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 ```
+ 
         int currentPopulation = 312032386;
 
         for (int x = 1; x <= 5; x++)
@@ -93,6 +94,7 @@ So farm we have make several pieces of code, and a bit of math...
                     currentPopulation += 1;
                     // regner indvandring
 ```
+
 </details>
 
 jgkjepjmkgpomerpomgpoierpgpoerpogerpomgre
