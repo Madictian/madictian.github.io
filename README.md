@@ -16,7 +16,7 @@ I am a student of computer science at zealand school of applied sciences. i just
 
 Currently my days are spent learning a new craft, that is programming and pass my freetime by looking at funny pictures and reposting them as funny reactions to others. trying to keep a healthy circle og laughter between my friendsgroup and classmates. other antics would a bit of iceskating coupled with the gravity excersises that follows!
 
-![image]https://cdn.discordapp.com/attachments/751336524452331520/753230652999991306/received_614055752555455.gif
+![image](https://cdn.discordapp.com/attachments/751336524452331520/753230652999991306/received_614055752555455.gif)
 
 - Bulleted
 - List
