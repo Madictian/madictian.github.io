@@ -68,6 +68,9 @@ So farm we have make several pieces of code, and a bit of math...
 ```
 </details>
 - We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring death all given parameters
+
+<details>
+<summary>Click to expand!</summary>
 ```
         int currentPopulation = 312032386;
 
@@ -89,6 +92,8 @@ So farm we have make several pieces of code, and a bit of math...
                     currentPopulation += 1;
                     // regner indvandring
 ```
+</details>
+
 -
 
 -
