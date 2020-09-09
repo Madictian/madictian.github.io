@@ -95,16 +95,4 @@ So farm we have make several pieces of code, and a bit of math...
 ```
 </details>
 
--
-
--
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### future 
