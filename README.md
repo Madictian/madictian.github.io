@@ -12,7 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Fredrik Bille
-Sometimes i really wish i could live life as a proffesional procrastinator, but it's not that easy of a thing to do, so here i am making this webpage, with no idea how it is going to turn out.
+Sometimes i really wish i could live life as a proffesional procrastinator, but it's not that easy of a thing to do,
+so here i am making this webpage, with no idea how it is going to turn out.
+
+
  
 
 - Bulleted
