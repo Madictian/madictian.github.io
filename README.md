@@ -4,7 +4,7 @@ I am a student of computer science at zealand school of applied sciences. i just
 
 
 
-![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=250&height=250)
+<img src="Nice/IMG_20200121_173613.jpg" width="230" height="300">
 
 
 
