@@ -43,6 +43,32 @@ will inspire my buddies to do the same!
 
 ### Right now!
 
+I am showing up everyday, trying my best and resolved to keep at it and leave my procrastinating self in the dust!
+school is going fine i would say, i am in a study group with some people that are way better at coding than me, which can admittedly be a little disheartening
+but i perservere and try my best to learn from their experience and keep up.
+
+So farm we have make several pieces of code, and a bit of math...
+
+- we made a table to neatly display a table of information
+```
+        String[][] table  = new String[5][];
+        table[0] = new String[] {"a",   "a^2",  "a^3",   "a^4"};
+        table[1] = new String[] {"1",     "1",    "1",     "1"};
+        table[2] = new String[] {"2",     "4",    "8",    "16"};
+        table[3] = new String[] {"3",     "9",   "27",    "81"};
+        table[4] = new String[] {"4",    "16",   "64",   "256"};
+        /* Even though the perfectionist in me wouldve prefered a program
+         that calculated the table and then asorted  the values */
+
+        for (String[]   row :   table)  {
+            System.out.format("%15s%15s%15s%15s\n", row);
+```
+-
+
+-
+
+-
+
 - Bulleted
 - List
 
