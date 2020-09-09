@@ -53,21 +53,8 @@ So farm we have make several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 
-```
+![](https://cdn.discordapp.com/attachments/753265458047746199/753287763599556659/4df36c85c2a43772fe540ad0cb668a02.png)
 
-        String[][] table  = new String[5][];
-        table[0] = new String[] {"a",   "a^2",  "a^3",   "a^4"};
-        table[1] = new String[] {"1",     "1",    "1",     "1"};
-        table[2] = new String[] {"2",     "4",    "8",    "16"};
-        table[3] = new String[] {"3",     "9",   "27",    "81"};
-        table[4] = new String[] {"4",    "16",   "64",   "256"};
-        /* Even though the perfectionist in me wouldve prefered a program
-         that calculated the table and then asorted  the values */
-
-        for (String[]   row :   table)  {
-            System.out.format("%15s%15s%15s%15s\n", row);
-            
-```
 </details>
 
 - We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring deaths (given parameters)
