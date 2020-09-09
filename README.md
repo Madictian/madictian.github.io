@@ -62,7 +62,7 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 
-![](/nice/1872f616dbc746bab254fe93dad43c83.png)
+![](github.com/nice/1872f616dbc746bab254fe93dad43c83.png)
 
 </details>
 
