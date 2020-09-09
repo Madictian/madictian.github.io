@@ -94,9 +94,8 @@ So farm we have make several pieces of code, and a bit of math...
                     currentPopulation += 1;
                     // regner indvandring
 ```
-
 </details>
 
-jgkjepjmkgpomerpomgpoierpgpoerpogerpomgre
- 
+### Future 
+
  
