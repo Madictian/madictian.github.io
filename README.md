@@ -76,7 +76,6 @@ So far, we have made several pieces of code, and a bit of math...
  
 <img src="Nice/under-construction.jpg" width="600">
 
- ![](Nice/under-construction.jpg)
  
  
 Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
