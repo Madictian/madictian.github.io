@@ -24,7 +24,7 @@ and having a sweet working enviroment you tend to fall into habbits. Which i am 
  - I got used the responsibilities of having a full-time job, the free of a part-time job and learned the importance of taking breaks.
  
  - I'd like to believe i became good at both problemsolving and prevention, doing so with mininal resources available. 
- (disclaimer:_ the situation in the picture is not my brainchild, i was just on my way to lunch!_)
+ (disclaimer:*the situation in the picture is not my brainchild, i was just on my way to lunch!*)
 
 ![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=200&height=250)
 
