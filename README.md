@@ -100,7 +100,7 @@ WAIT! one more thing, there's another picture i think you need below.
  <summary>Click to expand!</summary>
  
  
- ![image](https://media.discordapp.net/attachments/751336524452331520/753220727951458335/Screenshot_20200528-115335.jpg?width=400&height=300)
+ ![image](https://media.discordapp.net/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=400&height=300)
 
  
 </details>
