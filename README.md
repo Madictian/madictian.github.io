@@ -40,7 +40,7 @@ only to that and decided i would take till winter to look around if i did not ge
 will inspire my buddies to do the same!
 
 
-![image](received_614055752555455.gif)
+![image](Nice/received_614055752555455.gif)
 
 
 ### Right now!
