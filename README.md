@@ -74,7 +74,7 @@ So farm we have make several pieces of code, and a bit of math...
 <summary>Click to expand!</summary>
 ```
  
-        int currentPopulation = 312032386;
+    int currentPopulation = 312032386;
 
         for (int x = 1; x <= 5; x++)
         //danner et for loop som kører formerings loop igen op til 5 år
@@ -94,8 +94,3 @@ So farm we have make several pieces of code, and a bit of math...
                     currentPopulation += 1;
                     // regner indvandring
 ```
-</details>
-
-### Future 
-
- 
