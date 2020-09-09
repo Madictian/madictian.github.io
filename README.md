@@ -54,6 +54,7 @@ So farm we have make several pieces of code, and a bit of math...
 <summary>Click to expand!</summary>
 
 ```
+
         String[][] table  = new String[5][];
         table[0] = new String[] {"a",   "a^2",  "a^3",   "a^4"};
         table[1] = new String[] {"1",     "1",    "1",     "1"};
@@ -65,6 +66,7 @@ So farm we have make several pieces of code, and a bit of math...
 
         for (String[]   row :   table)  {
             System.out.format("%15s%15s%15s%15s\n", row);
+            
 ```
 </details>
 
