@@ -15,8 +15,9 @@ Syntax highlighted code block
 Sometimes i really wish i could live life as a proffesional procrastinator, but it's not that easy of a thing to do,
 so here i am making this webpage, with no idea how it is going to turn out.
 
-![image](https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/s1080x2048/96584777_2777497322379404_2497313123715776512_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=11Nyth0kl-sAX-x_MgA&_nc_ht=scontent-cph2-1.xx&tp=7&oh=9b05d398a4ce605cd4cd3e80bb59078a&oe=5F7DD3B7)
- 
+![image](https://cdn.discordapp.com/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg)
+ ![image]
+ ![image]
 
 - Bulleted
 - List
