@@ -99,6 +99,7 @@ WAIT! one more thing, there's another picture i think you need below.
 <details>
  <summary>Click to expand!</summary>
  
+ 
  ![](https://cdn.discordapp.com/attachments/751336524452331520/753220727951458335/Screenshot_20200528-115335.jpg?width=200&height=200)
 
  
