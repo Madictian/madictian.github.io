@@ -14,9 +14,6 @@ Currently my days are spent learning a new craft, that is programming and pass m
 <img src="Nice/Screenshot_20200510-115232.jpg" width="200" >
 
 
-![image](https://media.discordapp.net/attachments/751336524452331520/753220727527964712/Screenshot_20200510-115232.jpg?width=200&height=200) 
-
-
 ## Before
 
 As mentioned i took a five-year sabbaticle, it was planned to only keep me busy for a years' time, but having money, picking working hours
