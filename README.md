@@ -31,10 +31,11 @@ and having a sweet working enviroment you tend to fall into habbits. Which i am 
 
 ## Now
 
->All was good, you had money, 
-
-
-
+>All was good, you had money, time off when you wanted, what went wrong?
+Well conditions changed, i had for a while thought that the place i was working was a joke from a concept standpoint, and the management was a bunch of cheapsakes.
+So me and my buddies from the same team all took the decisions to look around for alternatives, computer sciences had was my first choice around, so i applied
+only to that and decided i would take till winter to look around if i did not get accepted. Well the result was the favorable one and i hope my leap of faith
+will inspire my buddies to do the same!
 
 
 ![image](https://cdn.discordapp.com/attachments/751336524452331520/753230652999991306/received_614055752555455.gif)
