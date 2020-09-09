@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Fredrik Bille
-## Header 2
-### Header 3
+## Wish i was a proffesional procrastinator
+### But live moves on
 
 - Bulleted
 - List
