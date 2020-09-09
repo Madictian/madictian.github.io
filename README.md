@@ -90,6 +90,15 @@ So farm we have make several pieces of code, and a bit of math...
  
 ![](https://cdn.discordapp.com/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=200&height=200)
 
+Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment im baffled at how stuff is working,
+or maybe not so much. But i digress and hope its been a semi-enjoyable read and wish you a good night.
+WAIT! one more thing, there's another picture i think you need below.
+
 </details>
 
-![](https://cdn.discordapp.com/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=200&height=200)
+<details>
+ <summary>Click to expand!</summary>
+ 
+ ![](https://cdn.discordapp.com/attachments/751336524452331520/753220727951458335/Screenshot_20200528-115335.jpg)
+ 
+</details>
