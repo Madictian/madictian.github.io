@@ -64,7 +64,27 @@ So farm we have make several pieces of code, and a bit of math...
             System.out.format("%15s%15s%15s%15s\n", row);
 ```
 - We made a piece of code to calculate the increase in a contry's population based on births, immigration and factoring death all given parameters
+```
+        int currentPopulation = 312032386;
 
+        for (int x = 1; x <= 5; x++)
+        //danner et for loop som kører formerings loop igen op til 5 år
+        {
+            for (int i = 1; i <= (365 * 24 * 60 * 60); i++)
+            //danner grunlag for den sekund pøl som modulus kan tage af
+            {
+                if (i % 7 == 0) {
+                    currentPopulation += 1;
+                    // regner formering
+                }
+                if (i % 13 == 0) {
+                    currentPopulation -= 1;
+                    // regner afdøde
+                }
+                if (i % 45 == 0) {
+                    currentPopulation += 1;
+                    // regner indvandring
+```
 -
 
 -
