@@ -19,7 +19,7 @@ Before
 As mentioned i took a 5 year sabaticle, it was planned to only keep me busy for a years time, but having money, picking working hours
 and having a sweet working enviroment you tend to fall into habbits. Which i am terrible at changing.
 
-![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=507&height=676)
+![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=200&height=250)
 
 
 
