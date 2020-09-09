@@ -88,6 +88,6 @@ So farm we have make several pieces of code, and a bit of math...
 <details>
  <summary>Click to expand!</summary>
  
-![](https://cdn.discordapp.com/attachments/753265458047746199/753288764230729850/70cadf78dc75c723fd9f61ca54617f64.png?width=400&height=300)
+![](https://cdn.discordapp.com/attachments/753265458047746199/753288764230729850/70cadf78dc75c723fd9f61ca54617f64.pngwidth=400&height=300)
 
 </details>
