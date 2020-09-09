@@ -40,7 +40,8 @@ only to that and decided i would take till winter to look around if i did not ge
 will inspire my buddies to do the same!
 
 
-![image](https://cdn.discordapp.com/attachments/751336524452331520/753230652999991306/received_614055752555455.gif)
+![image](received_614055752555455.gif)
+
 
 ### Right now!
 
@@ -71,7 +72,7 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
  <summary>Click to expand!</summary>
  
- ![](https://media.discordapp.net/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=700&height=300)
+ ![](Nice/under-construction.jpg)
  
  
 Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
