@@ -19,7 +19,10 @@ Before
 As mentioned i took a 5 year sabaticle, it was planned to only keep me busy for a years time, but having money, picking working hours
 and having a sweet working enviroment you tend to fall into habbits. Which i am terrible at changing. what did this work provide me with?
 
- - 
+ - I got better at interacting with all sorts of people, which was a weak point of mine as an introvert.
+ 
+ - I'd like to believe i became good at both problemsolving and prevention, doing so with mininal resources. 
+ (disclaimer: the situation in the picture is not my brainchild, i was just on my way to lunch!)
 
 ![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=200&height=250)
 
