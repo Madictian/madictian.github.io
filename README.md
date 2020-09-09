@@ -104,6 +104,3 @@ WAIT! one more thing, there's another picture i think you need below.
 
  
 </details>
-
-![](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg)
-
