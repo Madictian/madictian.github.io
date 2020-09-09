@@ -73,6 +73,9 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
  <summary>Click to expand!</summary>
  
+ 
+<img src="Nice/under-construction.jpg" width="600">
+
  ![](Nice/under-construction.jpg)
  
  
@@ -88,8 +91,7 @@ WAIT! one more thing, there's another picture i think you need below.
  
 **This is baby toucan, i thought you might like it**
 
-
-![](https://media.discordapp.net/attachments/751336524452331520/753220727951458335/Screenshot_20200528-115335.jpg?width=200&height=200) 
+<img src="Nice/Screenshot_20200528-115335.jpg" height="250">
  
 </details>
 
