@@ -3,7 +3,7 @@
 I am a student of computer science at zealand school of applied sciences. i just started this fall after a five year sabatical due to personal reasons. My hobbies might seem very stereotypical of any pc related education, cause we game, we nerd, we obsess and im looking forward to expanding the nerding spektrume while making some money on top of it.
 
 
-![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=200&height=200)
+                                ![image](https://media.discordapp.net/attachments/751336524452331520/753220728278482954/IMG_20200121_173613.jpg?width=200&height=200)
 
 
 
