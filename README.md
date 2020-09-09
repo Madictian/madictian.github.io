@@ -28,7 +28,7 @@ and having a sweet working environment you tend to fall into habits. Which i am 
  
    (disclaimer: *the situation in the picture is not my brainchild, i was just on my way to lunch!*)
 
-![](https://media.discordapp.net/attachments/753265458047746199/753266089110143066/IMG_20190219_211545.jpg?width=200&height=250)
+![](Nice/IMG_20190219_211545.jpg?width=200&height=250)
 
 ## Now
 
@@ -55,7 +55,7 @@ So far, we have made several pieces of code, and a bit of math...
 <details>
 <summary>Click to expand!</summary>
 
-![](https://cdn.discordapp.com/attachments/753265458047746199/753287763599556659/4df36c85c2a43772fe540ad0cb668a02.png)
+![](Nice/4df36c85c2a43772fe540ad0cb668a02.png)
 
 </details>
 
