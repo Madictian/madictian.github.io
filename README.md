@@ -28,7 +28,9 @@ and having a sweet working environment you tend to fall into habits. Which i am 
  
    (disclaimer: *the situation in the picture is not my brainchild, i was just on my way to lunch!*)
 
-![](Nice/IMG_20190219_211545.jpg?width=200&height=250)
+<img src="Nice/IMG_20190219_211545.jpg" width="200" >
+
+![](Nice/IMG_20190219_211545.jpg?width=200&height=200)
 
 ## Now
 
