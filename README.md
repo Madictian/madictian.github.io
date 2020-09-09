@@ -90,6 +90,7 @@ So far, we have made several pieces of code, and a bit of math...
  
  ![image](https://media.discordapp.net/attachments/753265458047746199/753289817336316014/under-construction.jpg?width=700&height=300)
  
+ 
 Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
 or maybe not so much. But i digress and hope it has been a semi-enjoyable read and wish you a good night.
 WAIT! one more thing, there's another picture i think you need below.
