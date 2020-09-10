@@ -90,6 +90,7 @@ So far, we have made several pieces of code, and a bit of math...
  
  
 I found out how to resize the pictures, yay me!
+
 i unfortunately didnt have the time i would've liked to make this website as good or atleast with the visual image i would've prefered,but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
 or maybe not so much. But i digress and hope it has been a semi-enjoyable read and wish you a good night.
 WAIT! one more thing, there's another picture i think you need below.
