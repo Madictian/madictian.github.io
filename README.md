@@ -6,12 +6,6 @@ I am a student of computer science at zealand school of applied sciences. i just
 
 <img src="Nice/IMG_20200121_173613.jpg" width="230" height="300">
 
-/*<div 
- 
-    width:200px; 
-    height:100px; 
-    background-position:center;">&nbsp;</div>*/
-
 
 
 Currently my days are spent learning a new craft, that is programming and pass my freetime by looking at funny pictures and reposting them as funny reactions to others. trying to keep a healthy circle og laughter between my friends group and classmates. other antics would a bit of iceskating coupled with the gravity exercises that follows!
