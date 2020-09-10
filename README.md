@@ -6,12 +6,18 @@ I am a student of computer science at zealand school of applied sciences. i just
 
 <img src="Nice/IMG_20200121_173613.jpg" width="230" height="300">
 
+/*<div 
+ 
+    width:200px; 
+    height:100px; 
+    background-position:center;">&nbsp;</div>*/
+
 
 
 Currently my days are spent learning a new craft, that is programming and pass my freetime by looking at funny pictures and reposting them as funny reactions to others. trying to keep a healthy circle og laughter between my friends group and classmates. other antics would a bit of iceskating coupled with the gravity exercises that follows!
 
 
-<img src="Nice/Screenshot_20200510-115232.jpg" height="250">
+<img src="Nice/Screenshot_20200510-115232.jpg" height="250px">
 
 
 ## Before
@@ -83,7 +89,8 @@ So far, we have made several pieces of code, and a bit of math...
  
  
  
-Well i have no idea why i can't shrink this picture, but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
+I found out how to resize the pictures, yay me!
+i unfortunately didnt have the time i would've liked to make this website as good or atleast with the visual image i would've prefered,but hey what i am doing is learning and twice now in this assignment i am baffled at how stuff is working,
 or maybe not so much. But i digress and hope it has been a semi-enjoyable read and wish you a good night.
 WAIT! one more thing, there's another picture i think you need below.
 
